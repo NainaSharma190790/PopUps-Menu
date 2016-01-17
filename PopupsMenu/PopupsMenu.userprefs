@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="PopupsMenu\PopupsMenu.Droid\PopupsMenu.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.fc02ccf6" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PopupsMenu\PopupsMenu\Pages\BasePage.cs">
+    <Files>
+      <File FileName="PopupsMenu\PopupsMenu\Pages\BasePage.cs" Line="40" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

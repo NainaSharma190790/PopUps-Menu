@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>c63c3422-623f-4532-9a23-ebbbbf68db6a</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>PopupsMenu</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)App.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\BasePage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Page1.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Page2.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Page3.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Page4.cs" />
+  </ItemGroup>
+</Project>
